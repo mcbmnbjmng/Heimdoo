@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="Base.Theme.Heimdoo" parent="Theme.Material3.Dark.Heimdoo">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Heimdoo" parent="Base.Theme.Heimdoo" />
+</resources>
