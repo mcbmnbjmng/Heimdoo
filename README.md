@@ -1,2 +1,4 @@
 # Heimdoo
-Samsung odin3 alternative Heimdall ported for Android.
+Heimdoo library for your app ported by heimdall source
+
+#Untested Now
