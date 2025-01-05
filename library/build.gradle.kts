@@ -84,7 +84,7 @@ android {
 }
 
 jar.archiveName = "Heimdoo.jar"
-group = 'com.github.disisi4974'
+group = 'com.github.mcbmnbjmng'
 
 dependencies {
     implementation(libs.core.ktx)
@@ -112,7 +112,7 @@ publishing {
         release(MavenPublication) {
             from components.release
 
-            groupId = 'com.github.disisi4974'
+            groupId = 'com.github.mcbmnbjmng'
             artifactId = 'Heimdoo'
             version = '1.8'
         }
